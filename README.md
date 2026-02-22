@@ -309,12 +309,12 @@ Contributions are welcome! Here's how to get started:
 
 ---
 
-## 👤 Author / Develpoer
+## 👤 Author
 
-**A VINAY KUMAR**
+**Tarun**
 
-- GitHub: [@Avinaykumar26](https://github.com/Avinaykumar26)
-- Email: [avinaykumar2004@gmail.com](mailto:avinaykumar2004@gmail.com)
+- GitHub: [@Tarunyl](https://github.com/Tarunyl)
+- Email: [taruntelus123@gmail.com](mailto:taruntelus123@gmail.com)
 
 ---
 
