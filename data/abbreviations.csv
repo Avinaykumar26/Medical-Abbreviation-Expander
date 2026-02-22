@@ -1,0 +1,12 @@
+abbr,expansion,notes
+BP,Blood Pressure,common vital sign
+HR,Heart Rate,common vital sign
+SOB,Shortness of Breath,clinical symptom
+HTN,Hypertension,chronic condition
+RA,Rheumatoid Arthritis|Right Atrium,ambiguous
+DM,Diabetes Mellitus,common disease
+Rx,Prescription|Treatment,contextual
+Pt,Patient,shorthand
+Hx,History,shorthand
+c/o,Complains of,shorthand
+ACE,Angiotensin-Converting Enzyme,common medical term

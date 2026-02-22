@@ -1,0 +1,15 @@
+streamlit==1.25.0
+pandas>=2.0.0
+numpy
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.2.0
+faiss-cpu
+python-dotenv
+spacy>=3.7.0
+regex
+tqdm
+pytest==8.3.4
+matplotlib
+seaborn
+notebook
