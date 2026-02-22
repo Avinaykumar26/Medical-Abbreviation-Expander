@@ -309,11 +309,11 @@ Contributions are welcome! Here's how to get started:
 
 ---
 
-## 👤 Author
+## 👤 Author / Develpoer
 
 **A VINAY KUMAR**
 
-- GitHub: [@Avinaykuamr26](https://github.com/Avinaykuamr26)
+- GitHub: [@Avinaykumar26](https://github.com/Avinaykumar26)
 - Email: [avinaykumar2004@gmail.com](mailto:avinaykumar2004@gmail.com)
 
 ---
