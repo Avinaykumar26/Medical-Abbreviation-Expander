@@ -311,10 +311,10 @@ Contributions are welcome! Here's how to get started:
 
 ## 👤 Author
 
-**Tarun**
+**A VINAY KUMAR**
 
-- GitHub: [@Tarunyl](https://github.com/Tarunyl)
-- Email: [taruntelus123@gmail.com](mailto:taruntelus123@gmail.com)
+- GitHub: [@Avinaykuamr26](https://github.com/Avinaykuamr26)
+- Email: [avinaykumar2004@gmail.com](mailto:avinaykumar2004@gmail.com)
 
 ---
 
