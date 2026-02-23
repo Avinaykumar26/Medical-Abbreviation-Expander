@@ -9,6 +9,17 @@
 
 ---
 
+## 👤 Author
+
+**Tarun**
+
+- GitHub: [@Tarunyl](https://github.com/Tarunyl)
+- Email: [taruntelus123@gmail.com](mailto:taruntelus123@gmail.com)
+- working link :- https://medical-abbreviation-expander-projwila.streamlit.app/
+- ( copy past this in browser and view the app )
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -309,14 +320,6 @@ Contributions are welcome! Here's how to get started:
 
 ---
 
-## 👤 Author
-
-**Tarun**
-
-- GitHub: [@Tarunyl](https://github.com/Tarunyl)
-- Email: [taruntelus123@gmail.com](mailto:taruntelus123@gmail.com)
-
----
 
 ## 📄 License
 
