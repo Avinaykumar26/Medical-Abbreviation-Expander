@@ -1,0 +1,71 @@
+abbr,expansion,confidence,text_length,use_embeddings,timestamp
+Pt,Patient,0.95,91,False,2026-02-22 20:35:24
+c/o,Complains of,0.95,91,False,2026-02-22 20:35:24
+SOB,Shortness of Breath,0.95,91,False,2026-02-22 20:35:24
+and,[UNKNOWN],0.0,91,False,2026-02-22 20:35:24
+BP,Blood Pressure,0.95,91,False,2026-02-22 20:35:24
+Hx,History,0.95,91,False,2026-02-22 20:35:24
+of,[UNKNOWN],0.0,91,False,2026-02-22 20:35:24
+HTN,Hypertension,0.95,91,False,2026-02-22 20:35:24
+DM,Diabetes Mellitus,0.95,91,False,2026-02-22 20:35:24
+Echo,[UNKNOWN],0.0,91,False,2026-02-22 20:35:24
+shows,[UNKNOWN],0.0,91,False,2026-02-22 20:35:24
+RA,Rheumatoid Arthritis,0.6,91,False,2026-02-22 20:35:24
+Rx,Prescription,0.6,91,False,2026-02-22 20:35:24
+ACE,Angiotensin-Converting Enzyme,0.95,91,False,2026-02-22 20:35:24
+Pt,Patient,0.95,91,False,2026-02-22 20:35:33
+c/o,Complains of,0.95,91,False,2026-02-22 20:35:33
+SOB,Shortness of Breath,0.95,91,False,2026-02-22 20:35:33
+and,[UNKNOWN],0.0,91,False,2026-02-22 20:35:33
+BP,Blood Pressure,0.95,91,False,2026-02-22 20:35:33
+Hx,History,0.95,91,False,2026-02-22 20:35:33
+of,[UNKNOWN],0.0,91,False,2026-02-22 20:35:33
+HTN,Hypertension,0.95,91,False,2026-02-22 20:35:33
+DM,Diabetes Mellitus,0.95,91,False,2026-02-22 20:35:33
+Echo,[UNKNOWN],0.0,91,False,2026-02-22 20:35:33
+shows,[UNKNOWN],0.0,91,False,2026-02-22 20:35:33
+RA,Rheumatoid Arthritis,0.6,91,False,2026-02-22 20:35:33
+Rx,Prescription,0.6,91,False,2026-02-22 20:35:33
+ACE,Angiotensin-Converting Enzyme,0.95,91,False,2026-02-22 20:35:33
+Pt,Patient,0.95,91,False,2026-02-22 20:37:09
+c/o,Complains of,0.95,91,False,2026-02-22 20:37:09
+SOB,Shortness of Breath,0.95,91,False,2026-02-22 20:37:09
+and,[UNKNOWN],0.0,91,False,2026-02-22 20:37:09
+BP,Blood Pressure,0.95,91,False,2026-02-22 20:37:09
+Hx,History,0.95,91,False,2026-02-22 20:37:09
+of,[UNKNOWN],0.0,91,False,2026-02-22 20:37:09
+HTN,Hypertension,0.95,91,False,2026-02-22 20:37:09
+DM,Diabetes Mellitus,0.95,91,False,2026-02-22 20:37:09
+Echo,[UNKNOWN],0.0,91,False,2026-02-22 20:37:09
+shows,[UNKNOWN],0.0,91,False,2026-02-22 20:37:09
+RA,Rheumatoid Arthritis,0.6,91,False,2026-02-22 20:37:09
+Rx,Prescription,0.6,91,False,2026-02-22 20:37:09
+ACE,Angiotensin-Converting Enzyme,0.95,91,False,2026-02-22 20:37:09
+Pt,Patient,0.95,91,True,2026-02-22 20:37:45
+c/o,Complains of,0.95,91,True,2026-02-22 20:37:45
+SOB,Shortness of Breath,0.95,91,True,2026-02-22 20:37:45
+and,[UNKNOWN],0.0,91,True,2026-02-22 20:37:45
+BP,Blood Pressure,0.95,91,True,2026-02-22 20:37:45
+Hx,History,0.95,91,True,2026-02-22 20:37:45
+of,[UNKNOWN],0.0,91,True,2026-02-22 20:37:45
+HTN,Hypertension,0.95,91,True,2026-02-22 20:37:45
+DM,Diabetes Mellitus,0.95,91,True,2026-02-22 20:37:45
+Echo,[UNKNOWN],0.0,91,True,2026-02-22 20:37:45
+shows,[UNKNOWN],0.0,91,True,2026-02-22 20:37:45
+RA,Rheumatoid Arthritis,0.187,91,True,2026-02-22 20:37:45
+Rx,Treatment,0.315,91,True,2026-02-22 20:37:45
+ACE,Angiotensin-Converting Enzyme,0.95,91,True,2026-02-22 20:37:45
+Pt,Patient,0.95,91,False,2026-02-22 21:38:58
+c/o,Complains of,0.95,91,False,2026-02-22 21:38:58
+SOB,Shortness of Breath,0.95,91,False,2026-02-22 21:38:58
+and,[UNKNOWN],0.0,91,False,2026-02-22 21:38:58
+BP,Blood Pressure,0.95,91,False,2026-02-22 21:38:58
+Hx,History,0.95,91,False,2026-02-22 21:38:58
+of,[UNKNOWN],0.0,91,False,2026-02-22 21:38:58
+HTN,Hypertension,0.95,91,False,2026-02-22 21:38:58
+DM,Diabetes Mellitus,0.95,91,False,2026-02-22 21:38:58
+Echo,[UNKNOWN],0.0,91,False,2026-02-22 21:38:58
+shows,[UNKNOWN],0.0,91,False,2026-02-22 21:38:58
+RA,Rheumatoid Arthritis,0.6,91,False,2026-02-22 21:38:58
+Rx,Prescription,0.6,91,False,2026-02-22 21:38:58
+ACE,Angiotensin-Converting Enzyme,0.95,91,False,2026-02-22 21:38:58
