@@ -15,6 +15,7 @@
 
 - GitHub : [@Avinaykumar26](https://github.com/Avinaykumar26)
 - Email : [avinaykumar2004@gmail.com](mailto:avinaykumar2004@gmail.com)
+- LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 - Working link :- https://medical-abbreviation-expander-projwila.streamlit.app/
 - ( Copy past this link in browser and insert the prompt from - [Demo](#-demo) and view/use the app )
 
