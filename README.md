@@ -9,7 +9,7 @@
 
 ---
 
-## 👤 Author
+## 👤 Author / Developer 
 
 **A VINAY KUMAR**
 
