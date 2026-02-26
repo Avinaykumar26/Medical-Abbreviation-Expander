@@ -317,7 +317,7 @@ Contributions are welcome! Here's how to get started:
 - 🌐 Add multilingual abbreviation support
 - 🧠 Integrate a biomedical language model (e.g., BioBERT, PubMedBERT)
 - 📊 Add more evaluation metrics (F1-score, recall)
-- 🎨 Improve the Streamlit UI/UX
+- 🎨 Improve the Streamlit UI/UX 
 
 ---
 
