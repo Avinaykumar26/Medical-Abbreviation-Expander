@@ -228,7 +228,7 @@ The easiest way to host this app for free is via **[Streamlit Community Cloud](h
 3. Click **New app**, then select your repository, branch, and main file path: `app/main.py`.
 4. Click **Deploy!**
 
-> **Note:** Streamlit Cloud will automatically detect `requirements.txt` and install all dependencies. First-time deployment may take 2-3 minutes as it downloads the embedding models.
+> **Note:** Streamlit Cloud will automatically detect `requirements.txt` and install all dependencies. First-time deployment may take 2-3 minutes as it downloads the embedding models .
 
 ---
 
