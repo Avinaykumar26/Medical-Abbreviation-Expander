@@ -238,10 +238,10 @@ The easiest way to host this app for free is via **[Streamlit Community Cloud](h
 
 The app automatically evaluates predictions against `data/ground_truth.csv` after each expansion run. It displays:
 
-- **Precision** — Fraction of correctly expanded abbreviations
+- **Precision** — Fraction of correctly expanded abbreviations 
 - **Accuracy** — Overall correctness score
 - **Bar Chart** — Correct vs. Incorrect predictions (color-coded)
-- **Trend Chart** — Precision & Accuracy over time across multiple runs
+- **Trend Chart** — Precision & Accuracy over time across multiple runs 
 
 ### Jupyter Notebooks
 
