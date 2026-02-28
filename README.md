@@ -281,7 +281,7 @@ PRN,As Needed,medication frequency
 For ambiguous abbreviations with multiple meanings, separate expansions with `|`:
 
 ```csv
-MS,Multiple Sclerosis|Mitral Stenosis,ambiguous
+MS,Multiple Sclerosis|Mitral Stenosis,ambiguous 
 ```
 
 ---
