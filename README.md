@@ -112,7 +112,7 @@ Medical-Abbreviation-Expander/
 │
 ├── models/
 │   ├── resolver.py                # Rule-based abbreviation resolver (CSV lookup)
-│   └── embed_disambiguator.py     # Embedding model for contextual disambiguation
+│   └── embed_disambiguator.py     # Embedding model for contextual disambiguation 
 │
 ├── data/
 │   ├── abbreviations.csv          # Base abbreviation dictionary (abbr → expansion)
