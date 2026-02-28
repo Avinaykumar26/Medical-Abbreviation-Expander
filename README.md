@@ -79,7 +79,7 @@ Pt c/o SOB and elevated BP. Hx of HTN and DM. Echo shows RA enlargement.
 Rx: ACE inhibitor.
 ```
 
-The app will:
+The app will :
 1. Detect abbreviations: `SOB`, `BP`, `HTN`, `DM`, `RA`
 2. Expand each one with confidence scores
 3. Display annotated text with inline expansions
